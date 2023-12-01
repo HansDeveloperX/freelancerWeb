@@ -1,0 +1,28 @@
+html estructrar
+
+nombre del sitio web o logo tipo HEADER
+
+navegacion NAV 
+
+ secciones section
+
+hoja al lado ANSIDE
+
+el final de la pagina pie de pagina footer
+
+
+parte superior <header>
+
+parte inferior <footer>
+
+menu de navegacion <nav>
+
+contenido principal <main>
+
+secciones o partes con info <sectionn> usar artas veces
+
+blog o noticias <article>
+
+barra lateral <aside>
+
+cuando no se pueda ocupar uno de estos se ocupa <div> si no no
